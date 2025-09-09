@@ -5,6 +5,10 @@ permalink: /about/
 
 ### About us
 <!-- We are a group of data scientists with interest in brains and, more general, biomedical research. Our research is more diverse than most labs, and also changes much more quickly! Right at the moment, much of the research in the lab is about deep learning and its applications. We also do a good bit of neural data analysis. Right now we are also very much interested in causality and its links with machine learning. -->
+We are a research group working on how <b>optimization</b> can enable intelligent decision-making in complex and large-scale systems. Our research lies at the intersection of <b>mathematical optimization</b>, <b>control theory</b>, <b>game theory</b>, and <b>multiagent systems</b>, with applications primarily in <b>aerospace engineering</b>, such as advanced air mobility and space robotics.
+
+We are based in the <a href="https://cse.umn.edu/aem">Department of Aerospace Engineering and Mechanics at University of Minnesota Twin Cities</a>. We are affiliated with <a href="https://cse.umn.edu/mnri">Minnesota Robotics Institute</a>, <a href="https://www.cts.umn.edu/">Center for Transportation Studies</a>, and <a href="https://dsai-hub.umn.edu/">UMN Data Science Initiative</a>. 
+
 
 ### Research
 <!-- Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
@@ -15,11 +19,13 @@ We've pursued projects that involve handshake greetings, human movement, [cell-p
 
 The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members: -->
 
-### Lab Members
+We investigate how to formulate decision-making problems for autonomous systems as mathematical optimization problems, and develop efficient algorithms to solve them. Our work bridges the gap between mathematical modeling, numerical optimization, and real-world robotic applications.
+
+<!-- ### Lab Members -->
 
 <!-- Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos). -->
 
-### Lab Culture
+<!-- ### Lab Culture -->
 
 <!-- Our lab is a wonderful spot for anyone who is super driven by curiosity and likes to learn/move through ideas quickly. Instead of one big "lab project", everyone is generally the chief of their own individual projects.
 
@@ -33,7 +39,7 @@ Since our lab includes several fields, we don't have big lab meetings with every
 
 Every week, more or less, we chat about current lab practices and sometimes vote on new things. -->
 
-### Collaborators
+<!-- ### Collaborators -->
 
 <!-- Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
 

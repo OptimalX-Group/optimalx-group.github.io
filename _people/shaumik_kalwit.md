@@ -1,10 +1,10 @@
 ---
-name: Aditya Bidwai
-position: gradstudent
-avatar: aditya_bidwai.jpeg
+name: Shaumik Kalwit
+position: undergraduate
+avatar: pickachu.jpg
 twitter:
 joined: 2025
-title: Aditya Bidwai
+title: Shaumik Kalwit
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

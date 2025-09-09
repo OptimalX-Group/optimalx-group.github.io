@@ -1,10 +1,10 @@
 ---
-name: Aditya Bidwai
-position: gradstudent
-avatar: aditya_bidwai.jpeg
+name: Pengyang Li
+position: undergrad
+avatar: pickachu.jpg
 twitter:
 joined: 2025
-title: Aditya Bidwai
+title: Pengyang Li
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

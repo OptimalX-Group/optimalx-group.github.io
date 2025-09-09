@@ -30,6 +30,8 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
+  - name: Useful
+    href: /useful/
   # - name:           "blog"
     # href:           "/blog"
 #   - name:           "abstracts"
