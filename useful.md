@@ -38,11 +38,13 @@ permalink: /useful/
   - <span style="font-size: smaller;">[Book (Amazon)](https://www.amazon.com/Was-Best-Sentences-Worst-Crafting/dp/B007I0P3FC)</span>
 
 #### B) Presentations
-- *How to speak* by Patrick Winston
+- *How to Speak* by Patrick Winston
   - <span style="font-size: smaller;">[Video](https://youtu.be/Unzc731iCUY?feature=shared)</span>
-- *Talks that don’t suck* by Cyrill Stachniss
+- *Talks That Don't Suck - A Guide to Improve Your Talks* by Cyrill Stachniss
   - <span style="font-size: smaller;">[Video](https://youtu.be/Rfo5dFD3DLQ?feature=shared)</span>
 
 #### C) Making Posters
 - *How to create a better research poster in less time* by Mike Morrison
   - <span style="font-size: smaller;">[Video](https://youtu.be/SYk29tnxASs?feature=shared)</span>
+
+
