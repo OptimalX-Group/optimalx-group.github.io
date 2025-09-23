@@ -7,6 +7,12 @@ name:               "OptimalX"
 title:            "OptimalX Group at the University of Minnesota Twin Cities"
 description:        "OptimalX is research group at the University of Minnesota Twin Cities focussing on developing efficient and scalable algorithms for control of autonomous systems"
 
+plugins:
+  - jekyll-scholar
+scholar:
+  style: apa      # or ieee, acm, etc.
+  sort: year      # sorting order
+  order: descending
 
 # URL
 url:                https://optimalx-group.github.io/
@@ -30,8 +36,10 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name: Useful
-    href: /useful/
+  - name:           "Useful"
+    href:           "/useful/"
+  - name:           "Venues"
+    href:           "/venues/"
   # - name:           "blog"
     # href:           "/blog"
 #   - name:           "abstracts"
