@@ -1,0 +1,4 @@
+1. there is a script to generate the publications in konrad's called citations.py. But not all the publications from yue's profile are visible
+2. you have placed all the bibs in the TEMP folder 
+3. changes arent commited to git yet since the poublications display ius not working. I think you need tyo create a gemfile OR site.bibliograohys is not gettin populated. there is also an error saying publcations cannot be found
+4. you probably need to remove all the data related to Konrad's lab oir any otyher lab like images etc etc 

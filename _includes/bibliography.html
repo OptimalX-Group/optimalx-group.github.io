@@ -1,0 +1,15 @@
+{% if site.bibliography %}
+<ul>
+{% for entry in site.bibliography %}
+  <li>
+    <strong>{{ entry.author }}</strong>, 
+    <em>{{ entry.title }}</em>, 
+    {% if entry.journal %}{{ entry.journal }}, {% endif %}
+    {% if entry.booktitle %}in {{ entry.booktitle }}, {% endif %}
+    {{ entry.year }}.
+  </li>
+{% endfor %}
+</ul>
+{% else %}
+<p>No publications found. Check your BibTeX file and _config.yml!</p>
+{% endif %}

@@ -1,0 +1,409 @@
+@article{yu2018bregman,
+  title={Bregman parallel direction method of multipliers for distributed optimization via mirror averaging},
+  author={Yu, Yue and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et and Mesbahi, Mehran},
+  journal={IEEE Control Systems Letters},
+  volume={2},
+  number={2},
+  pages={302--306},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{yu2023vertiport,
+  title={Vertiport selection in hybrid air--ground transportation networks via mathematical programs with equilibrium constraints},
+  author={Yu, Yue and Wang, Mengyuan and Mesbahi, Mehran and Topcu, Ufuk},
+  journal={IEEE Transactions on Control of Network Systems},
+  volume={10},
+  number={4},
+  pages={2108--2119},
+  year={2023},
+  publisher={IEEE}
+}
+
+@inproceedings{yu2021controllability,
+  title={On controllability and persistency of excitation in data-driven control: Extensions of Willems’ fundamental lemma},
+  author={Yu, Yue and Talebi, Shahriar and Van Waarde, Henk J and Topcu, Ufuk and Mesbahi, Mehran and A{\c{c}}{\i}kmeșe, Beh{\c{c}}et},
+  booktitle={2021 60th IEEE Conference on Decision and Control (CDC)},
+  pages={6485--6490},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{yu2024alpha,
+  title={Alpha-fair routing in urban air mobility with risk-aware constraints},
+  author={Yu, Yue and Gao, Zhenyu and Li, Sarah HQ and Wei, Qinshuang and Clarke, John-Paul and Topcu, Ufuk},
+  booktitle={2024 American Control Conference (ACC)},
+  pages={2248--2253},
+  year={2024},
+  organization={IEEE}
+}
+
+@article{li2023adaptive,
+  title={Adaptive constraint satisfaction for markov decision process congestion games: Application to transportation networks},
+  author={Li, Sarah HQ and Yu, Yue and Miguel, Nicolas I and Calderone, Dan and Ratliff, Lillian J and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={Automatica},
+  volume={151},
+  pages={110879},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{malyuta2021advances,
+  title={Advances in trajectory optimization for space vehicle control},
+  author={Malyuta, Danylo and Yu, Yue and Elango, Purnanand and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={Annual Reviews in Control},
+  volume={52},
+  pages={282--315},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@inproceedings{yu2024sensing,
+  title={Sensing Resource Allocation Against Data-Poisoning Attacks in Traffic Routing},
+  author={Yu, Yue and Thorpe, Adam J and Milzman, Jesse and Fridovich-Keil, David and Topcu, Ufuk},
+  booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)},
+  pages={8396--8402},
+  year={2024},
+  organization={IEEE}
+}
+
+@inproceedings{yu2019stochastic,
+  title={Stochastic Bregman parallel direction method of multipliers for distributed optimization},
+  author={Yu, Yue and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  booktitle={2019 IEEE 58th Conference on Decision and Control (CDC)},
+  pages={5550--5555},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{el2018controlled,
+  title={Controlled markov processes with safety state constraints},
+  author={El Chamie, Mahmoud and Yu, Yue and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et and Ono, Masahiro},
+  journal={IEEE Transactions on Automatic Control},
+  volume={64},
+  number={3},
+  pages={1003--1018},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{yu2022cost,
+  title={Cost Design in Atomic Routing Games},
+  author={Yu, Yue and Chen, Shenghui and Fridovich-Keil, David and Topcu, Ufuk},
+  journal={arXiv preprint arXiv:2210.01221},
+  year={2022}
+}
+
+@inproceedings{el2016convex,
+  title={Convex synthesis of randomized policies for controlled Markov chains with density safety upper bound constraints},
+  author={El Chamie, Mahmoud and Yu, Yue and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  booktitle={2016 American Control Conference (ACC)},
+  pages={6290--6295},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{yu2020rc,
+  title={RC circuits based distributed conditional gradient method},
+  author={Yu, Yue and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={arXiv preprint arXiv:2003.06949},
+  year={2020}
+}
+
+@article{yu2020mass,
+  title={Mass--spring--damper networks for distributed optimization in non-Euclidean spaces},
+  author={Yu, Yue and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et and Mesbahi, Mehran},
+  journal={Automatica},
+  volume={112},
+  pages={108703},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{kamath2023real,
+  title={Real-time sequential conic optimization for multi-phase rocket landing guidance},
+  author={Kamath, Abhinav G and Elango, Purnanand and Yu, Yue and Mceowen, Skye and Chari, Govind M and Carson III, John M and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={IFAC-PapersOnLine},
+  volume={56},
+  number={2},
+  pages={3118--3125},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{wei2023dynamic,
+  title={Dynamic routing in stochastic urban air mobility networks: A markov decision process approach},
+  author={Wei, Qinshuang and Yu, Yue and Topcu, Ufuk},
+  journal={IFAC-PapersOnLine},
+  volume={56},
+  number={2},
+  pages={10760--10767},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@inproceedings{chen2023soft,
+  title={Soft-bellman equilibrium in affine markov games: Forward solutions and inverse learning},
+  author={Chen, Shenghui and Yu, Yue and Fridovich-Keil, David and Topcu, Ufuk},
+  booktitle={2023 62nd IEEE Conference on Decision and Control (CDC)},
+  pages={2202--2207},
+  year={2023},
+  organization={IEEE}
+}
+
+@article{yu2022extrapolated,
+  title={Extrapolated proportional-integral projected gradient method for conic optimization},
+  author={Yu, Yue and Elango, Purnanand and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et and Topcu, Ufuk},
+  journal={IEEE Control Systems Letters},
+  volume={7},
+  pages={73--78},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{yu2023poisoning,
+  title={Poisoning Attacks Against Data-Driven Predictive Control},
+  author={Yu, Yue and Zhao, Ruihan and Chinchali, Sandeep and Topcu, Ufuk},
+  booktitle={2023 American Control Conference (ACC)},
+  pages={545--550},
+  year={2023},
+  organization={IEEE}
+}
+
+@inproceedings{ward2025active,
+  title={Active inverse learning in stackelberg trajectory games},
+  author={Ward, William and Yu, Yue and Levy, Jacob and Mehr, Negar and Fridovich-Keil, David and Topcu, Ufuk},
+  booktitle={2025 American Control Conference (ACC)},
+  pages={1547--1553},
+  year={2025},
+  organization={IEEE}
+}
+
+@article{yu2021proportional,
+  title={Proportional-integral projected gradient method for infeasibility detection in conic optimization},
+  author={Yu, Yue and Topcu, Ufuk},
+  journal={arXiv preprint arXiv:2109.02756},
+  year={2021}
+}
+
+@article{yu2020rlc,
+  title={RLC circuits-based distributed mirror descent method},
+  author={Yu, Yue and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={IEEE Control Systems Letters},
+  volume={4},
+  number={3},
+  pages={548--553},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{palafox2023learning,
+  title={Learning hyperplanes for multi-agent collision avoidance in space},
+  author={Palafox, Fernando and Yu, Yue and Fridovich-Keil, David},
+  journal={arXiv preprint arXiv:2311.09439},
+  year={2023}
+}
+
+@article{im2024coordination,
+  title={Coordination in noncooperative multiplayer matrix games via reduced rank correlated equilibria},
+  author={Im, Jaehan and Yu, Yue and Fridovich-Keil, David and Topcu, Ufuk},
+  journal={IEEE Control Systems Letters},
+  volume={8},
+  pages={1637--1642},
+  year={2024},
+  publisher={IEEE}
+}
+
+@article{yu2023real,
+  title={Real-time quadrotor trajectory optimization with time-triggered corridor constraints},
+  author={Yu, Yue and Nagpal, Kartik and Mceowen, Skye and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et and Topcu, Ufuk},
+  journal={Journal of Guidance, Control, and Dynamics},
+  volume={46},
+  number={6},
+  pages={1197--1205},
+  year={2023},
+  publisher={American Institute of Aeronautics and Astronautics}
+}
+
+@article{yu2020proportional,
+  title={Proportional-integral projected gradient method for model predictive control},
+  author={Yu, Yue and Elango, Purnanand and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={IEEE Control Systems Letters},
+  volume={5},
+  number={6},
+  pages={2174--2179},
+  year={2020},
+  publisher={IEEE}
+}
+
+@inproceedings{kamath2023customized,
+  title={Customized real-time first-order methods for onboard dual quaternion-based 6-DoF powered-descent guidance},
+  author={Kamath, Abhinav G and Elango, Purnanand and Kim, Taewan and Mceowen, Skye and Yu, Yue and Carson, John M and Mesbahi, Mehran and Acikmese, Behcet},
+  booktitle={AIAA scitech 2023 forum},
+  pages={2003},
+  year={2023}
+}
+
+@article{yu2022proportional,
+  title={Proportional--integral projected gradient method for conic optimization},
+  author={Yu, Yue and Elango, Purnanand and Topcu, Ufuk and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={Automatica},
+  volume={142},
+  pages={110359},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@inproceedings{li2019tolling,
+  title={Tolling for constraint satisfaction in markov decision process congestion games},
+  author={Li, Sarah HQ and Yu, Yue and Calderone, Daniel and Ratliff, Lillian and A{\c{c}}rkme{\c{s}}e, Beh{\c{c}}et},
+  booktitle={2019 American Control Conference (ACC)},
+  pages={1238--1243},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{chen2022relationship,
+  title={Relationship Design for Socially Desirable Behavior in Static Games.},
+  author={Chen, Shenghui and Bayiz, Yigit E and Fridovich-Keil, David and Yu, Yue and Topcu, Ufuk},
+  journal={CoRR},
+  year={2022}
+}
+
+@article{yu2022inverse,
+  title={Inverse matrix games with unique quantal response equilibrium},
+  author={Yu, Yue and Salfity, Jonathan and Fridovich-Keil, David and Topcu, Ufuk},
+  journal={IEEE Control Systems Letters},
+  volume={7},
+  pages={643--648},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{yu2022variable,
+  title={Variable demand and multi-commodity flow in Markovian network equilibrium},
+  author={Yu, Yue and Calderone, Dan and Li, Sarah HQ and Ratliff, Lillian J and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={Automatica},
+  volume={140},
+  pages={110224},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@inproceedings{elango2022customized,
+  title={A customized first-order solver for real-time powered-descent guidance},
+  author={Elango, Purnanand and Kamath, Abhinav G and Yu, Yue and Acikmese, Behcet and Mesbahi, Mehran and Carson, John M},
+  booktitle={AIAA scitech 2022 forum},
+  pages={0951},
+  year={2022}
+}
+
+@inproceedings{zhang2016decision,
+  title={Decision-Making Policies for Heterogeneous Autonomous Multi-Agent Systems with Safety Constraints.},
+  author={Zhang, Ruohan and Yu, Yue and El Chamie, Mahmoud and A{\c{c}}ikmese, Beh{\c{c}}et and Ballard, Dana H},
+  booktitle={IJCAI},
+  pages={546--553},
+  year={2016}
+}
+
+@article{gao2024noise,
+  title={Noise-aware and equitable urban air traffic management: An optimization approach},
+  author={Gao, Zhenyu and Yu, Yue and Wei, Qinshuang and Topcu, Ufuk and Clarke, John-Paul},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={165},
+  pages={104740},
+  year={2024},
+  publisher={Pergamon}
+}
+
+@book{yu2021efficient,
+  title={Efficient Algorithms for Convex Optimization based Control},
+  author={Yu, Yue},
+  year={2021},
+  publisher={University of Washington}
+}
+
+@inproceedings{li2024coupled,
+  title={A coupled optimization framework for correlated equilibria in normal-form games},
+  author={Li, Sarah HQ and Yu, Yue and D{\"o}rfler, Florian and Lygeros, John},
+  booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)},
+  pages={1739--1744},
+  year={2024},
+  organization={IEEE}
+}
+
+@inproceedings{chari2024constraint,
+  title={Constraint preconditioning and parameter selection for a first-order primal-dual method applied to model predictive control},
+  author={Chari, Govind M and Yu, Yue and A{\c{c}}{\i}me{\c{s}}e, Beh{\c{c}}et},
+  booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)},
+  pages={1676--1683},
+  year={2024},
+  organization={IEEE}
+}
+
+@inproceedings{yuan2025filtering,
+  title={Filtering-Linearization: A First-Order Method for Nonconvex Trajectory Optimization with Filter-Based Warm-Starting},
+  author={Yuan, Minsen and Caverly, Ryan J and Yu, Yue},
+  booktitle={2025 American Control Conference (ACC)},
+  pages={547--552},
+  year={2025},
+  organization={IEEE}
+}
+
+@article{bhatt2024multinash,
+  title={MultiNash-PF: A Particle Filtering Approach for Computing Multiple Local Generalized Nash Equilibria in Trajectory Games},
+  author={Bhatt, Maulik and Askari, Iman and Yu, Yue and Topcu, Ufuk and Fang, Huazhen and Mehr, Negar},
+  journal={arXiv preprint arXiv:2410.05554},
+  year={2024}
+}
+
+@inproceedings{palafox2024learning,
+  title={Learning Hyperplanes for Multi-Robot Collision Avoidance in Space},
+  author={Palafox, Fernando and Yu, Yue and Fridovich-Keil, David},
+  year={2024},
+  organization={AAS/AIAA Astrodynamics Specialist Conference}
+}
+
+@article{kamath2025onboard,
+  title={Onboard Dual Quaternion Guidance for Rocket Landing},
+  author={Kamath, Abhinav G and Doll, Javier A and Elango, Purnanand and Kim, Taewan and Mceowen, Skye and Yu, Yue and Reynolds, Taylor P and Mendeck, Gavin F and Carson III, John M and Mesbahi, Mehran and others},
+  journal={arXiv preprint arXiv:2508.10439},
+  year={2025}
+}
+
+@article{luo2025newton,
+  title={Newton-PIPG: A Fast Hybrid Algorithm for Quadratic Programs in Optimal Control},
+  author={Luo, Dayou and Yu, Yue and Fazel, Maryam and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  journal={arXiv preprint arXiv:2503.22131},
+  year={2025}
+}
+
+@article{yu2022inverse,
+  title={Inverse matrix games with unique nash equilibrium},
+  author={Yu, Yue and Salfity, Jonathan and Fridovich-Keil, David and Topcu, Ufuk},
+  journal={CoRR},
+  year={2022}
+}
+
+@article{fedele2023index,
+  title={Index of papers published in the IEEE Control Systems Letters and presented at the American Control Conference (ACC 2023).},
+  author={Fedele, G and D’Alfonso, L and Rodionova, A and Lindemann, L and Morari, M and Pappas, GJ and Yu, Y and Salfity, J and Fridovich-Keil, D and Topcu, U and others},
+  journal={IEEE Control Systems},
+  volume={7},
+  pages={613--618},
+  year={2023}
+}
+
+@article{yuan2025sequential,
+  title={Sequential Convex Programming with Filtering-Based Warm-Starting for Continuous-Time Multiagent Quadrotor Trajectory Optimization},
+  author={Yuan, Minsen and Yu, Yue},
+  journal={arXiv preprint arXiv:2508.14299},
+  year={2025}
+}
+
+@article{fang2025actively,
+  title={Actively Learning to Coordinate in Convex Games via Approximate Correlated Equilibrium},
+  author={Fang, Zhenlong and Deshwal, Aryan and Yu, Yue},
+  journal={arXiv preprint arXiv:2509.10989},
+  year={2025}
+}

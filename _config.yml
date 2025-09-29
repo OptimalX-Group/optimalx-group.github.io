@@ -9,11 +9,14 @@ description:        "OptimalX is research group at the University of Minnesota T
 
 plugins:
   - jekyll-scholar
-scholar:
-  style: apa      # or ieee, acm, etc.
-  sort: year      # sorting order
-  order: descending
 
+scholar:
+  style: ieee               # Citation style: apa, ieee, chicago, etc.
+  locale: en
+  source: _bibliography    # Folder where your BibTeX file will be
+  bibtex: references.bib # Your BibTeX file
+  sort_by: year
+  order: descending
 # URL
 url:                https://optimalx-group.github.io/
 baseurl:            
@@ -33,7 +36,7 @@ nav:
   - name:           "about"
     href:           "/about"
   - name:           "publications"
-    href:           "/publication"
+    href:           "/publications"
   - name:           "people"
     href:           "/people"
   - name:           "Useful"
