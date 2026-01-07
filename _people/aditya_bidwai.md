@@ -4,7 +4,7 @@ position: gradstudent
 avatar: aditya_bidwai.jpeg
 twitter:
 joined: 2025
-title: Aditya Bidwai
+title: Aditya Dilip Bidwai
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
