@@ -1,10 +1,10 @@
 ---
-name: Michael Fox
+name: Michael States
 position: phdstudent
 avatar: 
 twitter:
 joined: 2025
-title: Michael Fox
+title: Michael States
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
