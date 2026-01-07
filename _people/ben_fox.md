@@ -1,7 +1,7 @@
 ---
 name: Ben Fox
 position: undergrad
-avatar: pickachu.jpg
+avatar: 
 twitter:
 joined: 2025
 title: Ben Fox

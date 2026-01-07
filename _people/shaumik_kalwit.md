@@ -1,7 +1,7 @@
 ---
 name: Shaumik Kalwit
 position: undergraduate
-avatar: pickachu.jpg
+avatar: 
 twitter:
 joined: 2025
 title: Shaumik Kalwit

@@ -1,7 +1,7 @@
 ---
 name: Pengyang Li
 position: undergrad
-avatar: pickachu.jpg
+avatar: 
 twitter:
 joined: 2025
 title: Pengyang Li
