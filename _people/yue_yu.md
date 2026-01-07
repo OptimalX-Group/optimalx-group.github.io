@@ -7,10 +7,10 @@ avatar: yue_yu.jpeg
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Assistant Professor, University of Minnesota_<br>
+- _Assistant Professor, Department of Aerospace Engineering and Mechanics, University of Minnesota_<br>
 <!-- - _Science coach. Collaborator. Transdisciplinary optimist._ -->
 
-<i class="fa fa-envelope-o"></i> `yuey@umn.edu`
+<i class="fa fa-envelope-o"></i> `yuey[at]umn.edu` <br>
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=bwhxFnEAAAAJ&hl=en&oi=ao) <br>
 
 

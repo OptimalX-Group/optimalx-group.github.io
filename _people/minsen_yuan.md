@@ -11,8 +11,8 @@ title: Minsen Yuan
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `yuan0450@umn.edu`<br>
-<!-- <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/) <br> -->
+<i class="fa fa-envelope-o"></i>  `yuan0450[at]umn.edu`<br>
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=0rBFbP8AAAAJ&hl=en#:~:text=Minsen%20Yuan,Sort) <br>
 
 <hr>
 
