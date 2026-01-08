@@ -6,15 +6,15 @@ Permalink: /papers/
 <!-- For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page. -->
-
-<h1>Publications</h1>
+<br>
+<h3>Papers</h3>
 
 For metrics and citations, please refer to Yue’s [Google Scholar profile](https://scholar.google.com/citations?user=bwhxFnEAAAAJ&hl=en).
 
 
 <!-- {% include bibliography.html %} -->
 
-## 2025
+### 2025
 
 ***MultiNash-PF: A particle filtering approach for computing multiple local generalized Nash equilibria in trajectory games***  
 M Bhatt, I Askari, Y Yu, U Topcu, H Fang, N Mehr  
@@ -44,7 +44,7 @@ W Ward, Y Yu, J Levy, N Mehr, D Fridovich-Keil, U Topcu
 D Luo, Y Yu, M Fazel, B Açıkmeşe  
 arXiv preprint arXiv:2503.22131
 
-## 2024
+### 2024
 
 ***Constraint preconditioning and parameter selection for a first-order primal-dual method applied to model predictive control***  
 GM Chari, Y Yu, B Açımeşe  
@@ -74,7 +74,7 @@ Y Yu, Z Gao, SHQ Li, Q Wei, JP Clarke, U Topcu
 J Im, Y Yu, D Fridovich-Keil, U Topcu  
 IEEE Control Systems Letters 8, 1637-1642
 
-## 2023
+### 2023
 
 ***Soft-bellman equilibrium in affine markov games: Forward solutions and inverse learning***  
 S Chen, Y Yu, D Fridovich-Keil, U Topcu  
@@ -116,7 +116,7 @@ IFAC-PapersOnLine 56 (2), 10760-10767
 AG Kamath, P Elango, Y Yu, S Mceowen, GM Chari, JM Carson III, ...  
 IFAC-PapersOnLine 56 (2), 3118-3125
 
-## 2022
+### 2022
 
 ***Inverse matrix games with unique quantal response equilibrium***  
 Y Yu, J Salfity, D Fridovich-Keil, U Topcu  
@@ -150,7 +150,7 @@ AIAA scitech 2022 forum, 0951
 S Chen, YE Bayiz, D Fridovich-Keil, Y Yu, U Topcu  
 CoRR
 
-## 2021
+### 2021
 
 ***On controllability and persistency of excitation in data-driven control: Extensions of Willems’ fundamental lemma***  
 Y Yu, S Talebi, HJ Van Waarde, U Topcu, M Mesbahi, B Açıkmeșe  
@@ -168,7 +168,7 @@ University of Washington
 D Malyuta, Y Yu, P Elango, B Açıkmeşe  
 Annual Reviews in Control 52, 282-315
 
-## 2020
+### 2020
 
 ***Proportional-integral projected gradient method for model predictive control***  
 Y Yu, P Elango, B Açıkmeşe  
@@ -186,7 +186,7 @@ IEEE Control Systems Letters 4 (3), 548-553
 Y Yu, B Açıkmeşe, M Mesbahi  
 Automatica 112, 108703
 
-## 2019
+### 2019
 
 ***Stochastic Bregman parallel direction method of multipliers for distributed optimization***  
 Y Yu, B Açıkmeşe  
@@ -196,7 +196,7 @@ Y Yu, B Açıkmeşe
 SHQ Li, Y Yu, D Calderone, L Ratliff, B Açrkmeşe  
 2019 American Control Conference (ACC), 1238-1243
 
-## 2018
+### 2018
 
 ***Controlled markov processes with safety state constraints***  
 M El Chamie, Y Yu, B Açıkmeşe, M Ono  
@@ -206,7 +206,7 @@ IEEE Transactions on Automatic Control 64 (3), 1003-1018
 Y Yu, B Açıkmeşe, M Mesbahi  
 IEEE Control Systems Letters 2 (2), 302-306
 
-## 2016
+### 2016
 
 ***Decision-Making Policies for Heterogeneous Autonomous Multi-Agent Systems with Safety Constraints.***  
 R Zhang, Y Yu, M El Chamie, B Açikmese, DH Ballard  

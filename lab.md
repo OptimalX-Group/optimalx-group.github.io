@@ -2,7 +2,7 @@
 title: Lab
 permalink: /lab/
 ---
-
+<br>
 <p><strong>Some glimpses of our lab:</strong></p>
 
 <div class="lab-gallery">
