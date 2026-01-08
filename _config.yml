@@ -37,6 +37,8 @@ nav:
     href:           "/about"
   - name:           "publications"
     href:           "/publications"
+  - name:           "projects"
+    href:           "/projects"
   - name:           "people"
     href:           "/people"
   - name:           "Useful"
