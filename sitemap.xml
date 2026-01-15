@@ -1,14 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url><loc>https://optimalx-group.github.io/</loc></url>
-  <url><loc>https://optimalx-group.github.io/about</loc></url>
-  <url><loc>https://optimalx-group.github.io/papers</loc></url>
-  <url><loc>https://optimalx-group.github.io/projects</loc></url>
-  <url><loc>https://optimalx-group.github.io/people</loc></url>
-  <url><loc>https://optimalx-group.github.io/useful</loc></url>
-  <url><loc>https://optimalx-group.github.io/venues</loc></url>
-  <url><loc>https://optimalx-group.github.io/lab</loc></url>
-  <url><loc>https://optimalx-group.github.io/join-us</loc></url>
+
+<url>
+  <loc>https://optimalx-group.github.io/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/about/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/papers</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/projects/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/useful/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/venues/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/lab/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/joinus/</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/yue_yu/index.html</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/michael_states/index.html</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/minsen_yuan/index.html</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/aditya_bidwai/index.html</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/ben_fox/index.html</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/pengyang_li/index.html</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://optimalx-group.github.io/people/shaumik_kalwit/index.html</loc>
+  <lastmod>2026-01-15T18:19:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
 
 </urlset>
