@@ -11,7 +11,7 @@ title: Ben Fox
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  <br>
+<i class="fa fa-envelope-o"></i>  `fox00330[at]umn.edu`<br>
 <i class="fa fa-bar-chart"></i> <br>
 <i class="fa fa-globe"></i> <br>
 

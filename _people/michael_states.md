@@ -1,7 +1,7 @@
 ---
 name: Michael States
 position: phdstudent
-avatar: 
+avatar: michael_states.png
 twitter:
 joined: 2025
 title: Michael States
@@ -11,7 +11,7 @@ title: Michael States
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  <br>
+<i class="fa fa-envelope-o"></i>  `state067[at]umn.edu`<br>
 <i class="fa fa-bar-chart"></i> <br>
 <i class="fa fa-globe"></i> <br>
 
