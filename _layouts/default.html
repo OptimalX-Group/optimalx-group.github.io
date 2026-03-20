@@ -56,6 +56,8 @@ I love those that desire the impossible - Goethe.
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
   {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content }}{% endif %}{% endcapture %}
+  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:160 }}">
+  <meta name="keywords" content="OptimalX, OptimalX UMN, University of Minnesota, optimal control, autonomous systems, trajectory optimization, game theory, aerospace engineering, Yue Yu, research group">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ canonical }}">

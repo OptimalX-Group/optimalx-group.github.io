@@ -1,6 +1,7 @@
 ---
 title: Papers
 Permalink: /papers/
+description: "Publications from the OptimalX research group at University of Minnesota, covering optimal control, trajectory optimization, game theory, convex optimization, and autonomous systems led by Prof. Yue Yu."
 ---
 
 <!-- For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
