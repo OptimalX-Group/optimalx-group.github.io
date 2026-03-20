@@ -524,6 +524,12 @@ tbody tr:nth-child(odd) th {
   font-size: 80%;
 }
 
+.navbar-brand {
+  text-transform: none;
+  font-weight: 700;
+  color: #000 !important;
+}
+
 // fix menu bar spacing for mobile
 @media(max-width: 40em){
   .navbar-nav>li>a {
@@ -542,6 +548,19 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 0;
 }
 
+// fix navbar container width so brand and links stay on one line
+.navbar .container {
+  max-width: 100%;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+// fix right edge spacing for last nav item
+.navbar-nav.navbar-right {
+  margin-right: 0;
+}
+
 // fix menu button for mobile
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
@@ -550,7 +569,7 @@ tbody tr:nth-child(odd) th {
 
 // jan 8, 2025 -> Aditya added this line to change font
 body, p, ul, ol, h1, h2, h3, h4, h5, h6, a, span {
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
 // * { font-family: "Latin Modern Roman", "Computer Modern Serif", "Times New Roman", serif !important; }
