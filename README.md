@@ -8,6 +8,14 @@ To **deploy changes**, simply commit and push to the repository. GitHub Pages wi
 
 The steps below are for **editing and previewing the site locally** before pushing.
 
+### Setup Notes (Important)
+
+This project uses Ruby + Jekyll. To avoid dependency issues, do not use system Ruby or `sudo gem install`.
+
+We recommend using a Ruby version manager (e.g., rbenv) and installing dependencies via Bundler.
+
+System Ruby setups can cause gem conflicts and build failures. Using a managed Ruby environment ensures consistent builds across machines.
+
 ### Run the site locally
 
 Install dependencies and start the local server:
