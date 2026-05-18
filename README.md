@@ -4,6 +4,10 @@
 
 This website is built using Jekyll and deployed via GitHub Pages. We use Ruby and Bundler to manage dependencies.
 
+To **deploy changes**, simply commit and push to the repository. GitHub Pages will automatically rebuild and publish the site.
+
+The steps below are for **editing and previewing the site locally** before pushing.
+
 ### Run the site locally
 
 Install dependencies and start the local server:
