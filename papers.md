@@ -15,6 +15,12 @@ For metrics and citations, please refer to Yue’s [Google Scholar profile](http
 
 <!-- {% include bibliography.html %} -->
 
+### 2026
+
+***Nonlinear Trajectory Optimization Models for Energy-Sharing UAV-UGV Systems with Multiple Task Locations***  
+M Yuan, A Adane, J Humann, Y Yu  
+arXiv preprint arXiv:2603.28447
+
 ### 2025
 
 ***MultiNash-PF: A particle filtering approach for computing multiple local generalized Nash equilibria in trajectory games***  
