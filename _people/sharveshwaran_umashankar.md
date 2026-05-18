@@ -1,6 +1,6 @@
 ---
 name: Sharveshwaran Umashankar
-position: gradstudent
+position: phdstudent
 avatar: sharveshwaran_umashankar.jpg
 twitter:
 joined: 2025
