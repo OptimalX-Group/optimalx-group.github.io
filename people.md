@@ -64,5 +64,6 @@ description: "Meet the members of the OptimalX research group at the University 
 
 | Name | Current Position |
 | :--- | :--- |
-| [Amanuel Adane](https://www.linkedin.com/in/amanuel-adane-b214501b8/) | Undergraduate Student at Cornell University |
-| [Shaumik Kalwit](https://www.linkedin.com/in/shaumikkalwit/) | CS Sophomore at UMN, Incoming IBM Intern |
+| [Amanuel Adane](https://www.linkedin.com/in/amanuel-adane-b214501b8/) | Student at Cornell University |
+| [Shaumik Kalwit](https://www.linkedin.com/in/shaumikkalwit/) | CS Student at UMN, IBM Intern |
+| Pengyang Li | Student at UC Berkeley |
