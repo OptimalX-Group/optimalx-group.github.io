@@ -17,6 +17,10 @@ For metrics and citations, please refer to Yue’s [Google Scholar profile](http
 
 ### 2026
 
+***Warm-Started Sequential Convex Programming for Multi-Agent Quadrotor Trajectory Optimization***  
+M Yuan, Y Yu  
+Journal of Guidance, Control, and Dynamics, 1-9
+
 ***Nonlinear Trajectory Optimization Models for Energy-Sharing UAV-UGV Systems with Multiple Task Locations***  
 M Yuan, A Adane, J Humann, Y Yu  
 arXiv preprint arXiv:2603.28447
