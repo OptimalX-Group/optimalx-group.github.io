@@ -1,30 +1,5 @@
 <!DOCTYPE html>
-<!--
 
-  _                    _  _                 _         _
- | |                  | |(_)               | |       | |
- | | __ ___   _ __  __| | _  _ __    __ _  | |  __ _ | |__
- | |/ // _ \ | '__|/ _` || || '_ \  / _` | | | / _` || '_ \
- |   <| (_) || |  | (_| || || | | || (_| | | || (_| || |_) |
- |_|\_\\___/ |_|   \__,_||_||_| |_| \__, | |_| \__,_||_.__/
-                                     __/ |
-                                    |___/
-
-
-I love those that desire the impossible - Goethe.
-(if you get email from Konrad, you will see this quote)
-
-                boing         boing         boing
-      e-e           . - .         . - .         . - .
-     (\_/)\       '       `.   ,'       `.   ,'       .
-      `-'\ `--.___,         . .           . .          .
-         '\( ,_.-'
-            \\               "             "            a:f
-            ^'
-
-^ This is basically T-Rex jumping
-
--->
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -61,6 +36,7 @@ I love those that desire the impossible - Goethe.
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
+  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta property="og:image" content="{{ site.url }}/images/logo/logo_square.jpg">
 
 </head>
