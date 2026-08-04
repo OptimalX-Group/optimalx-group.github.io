@@ -18,7 +18,7 @@ scholar:
   sort_by: year
   order: descending
 # URL
-url:                https://optimalx-group.github.io/
+url:                https://optimalx-group.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
