@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+description: "Learn about the OptimalX research group at the University of Minnesota Twin Cities, led by Prof. Yue Yu. We work at the intersection of optimization, control theory, game theory, and multiagent systems with applications in aerospace engineering, advanced air mobility, and space robotics."
 ---
 
 <br>

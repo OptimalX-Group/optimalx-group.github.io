@@ -1,10 +1,10 @@
 ---
-name: Pengyang Li
+name: Isaac Van Oosterom
 position: undergrad
 avatar: 
 twitter:
-joined: 2025
-title: Pengyang Li
+joined: 2026
+title: Isaac Van Oosterom
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

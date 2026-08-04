@@ -1,6 +1,6 @@
 ---
 name: Shaumik Kalwit
-position: undergrad
+position: alumni
 avatar: 
 twitter:
 joined: 2025
