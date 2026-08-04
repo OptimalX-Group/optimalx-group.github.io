@@ -1,1 +1,0 @@
-# optimalx-group.github.io
