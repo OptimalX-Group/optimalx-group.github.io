@@ -284,7 +284,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 40rem;
+  max-width: 49rem;
 //  padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
@@ -548,17 +548,34 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 0;
 }
 
-// fix navbar container width so brand and links stay on one line
+// fix navbar container width so brand and links stay on one line,
+// and match the page content container width so the whole site lines up
 .navbar .container {
-  max-width: 100%;
+  max-width: 60rem;
   width: 100%;
   padding-left: 15px;
   padding-right: 15px;
+
+  @media (min-width: 768px) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
 
 // fix right edge spacing for last nav item
 .navbar-nav.navbar-right {
   margin-right: 0;
+}
+
+// align navbar-brand and last nav link flush with the container edges,
+// so the navbar's visible width matches the page content container below
+.navbar-brand {
+  padding-left: 0;
+}
+
+.navbar-nav.navbar-right > li:last-child > a {
+  padding-right: 0;
 }
 
 // fix menu button for mobile
