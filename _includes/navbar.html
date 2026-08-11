@@ -18,7 +18,9 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                   {% for nav in site.nav %}
-                  <li><a class='name' href="{{ nav.href }}">{{ nav.name }}</a></li>
+                  {% assign nav_href = nav.href | remove: '/' %}
+                  {% assign page_url = page.url | remove: '/' %}
+                  <li{% if nav_href == page_url or (nav_href == '' and page_url == '') %} class="active"{% endif %}><a class='name' href="{{ nav.href }}">{{ nav.name }}</a></li>
                   {% endfor %}
                 </ul>
             </div>

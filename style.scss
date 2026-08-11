@@ -547,6 +547,17 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+.navbar-default .navbar-nav>.active>a {
+  color: #ffcc33;
+  background-color: transparent;
+
+  &:hover,
+  &:focus {
+    color: #ffcc33;
+    background-color: transparent;
+  }
+}
+
 // mobile menu dropdown to match the maroon navbar
 .navbar-default .navbar-collapse {
   background-color: #7a0019;
