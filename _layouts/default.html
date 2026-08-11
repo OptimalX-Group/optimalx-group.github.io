@@ -44,8 +44,20 @@
     {% include navbar.html %}
     {{ content }}
 
-    <footer class="site-footer" style="text-align: center; padding: 2em 0; font-size: 0.85em; color: #888;">
-      Website template courtesy of the <a href="https://kordinglab.com/" target="_blank" rel="noopener">Kording Lab</a>.
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row site-footer-row">
+          <div class="site-footer-col">
+            &copy; {{ site.time | date: '%Y' }} OptimalX Group.<br>
+            Website template courtesy of the <a href="https://kordinglab.com/" target="_blank" rel="noopener">Kording Lab</a>.
+          </div>
+          <div class="site-footer-col site-footer-contact">
+            <strong>Contact:</strong> <a href="https://maps.google.com/?q=110+Union+Street+SE,+Minneapolis,+MN+55455" target="_blank" rel="noopener">(Google Maps)</a><br>
+            Room 305, Akerman Hall, 110 Union Street SE<br>
+            Minneapolis, MN 55455
+          </div>
+        </div>
+      </div>
     </footer>
 
     <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>

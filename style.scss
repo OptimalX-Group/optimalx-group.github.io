@@ -38,6 +38,50 @@ body {
 
 .site-footer {
   margin-top: auto;
+  padding: 2.5em 0;
+  font-size: 0.85em;
+  color: #000;
+  background-color: #ffcc33;
+  text-align: left;
+
+  a {
+    color: #7a0019;
+    font-weight: 600;
+
+    &:hover,
+    &:focus {
+      color: #5b0013;
+    }
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+}
+
+.site-footer-col {
+  margin-bottom: 1em;
+
+  @media (min-width: 768px) {
+    margin-bottom: 0;
+  }
+}
+
+.site-footer-row {
+  @media (min-width: 768px) {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.site-footer-contact {
+  text-align: left;
+
+  @media (min-width: 768px) {
+    flex: 0 0 auto;
+  }
 }
 
 .MathJax_Display{
