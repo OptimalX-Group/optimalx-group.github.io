@@ -1,6 +1,6 @@
 ---
 name: Aditya Bidwai
-position: gradstudent
+position: msstudent
 avatar: aditya_bidwai.jpeg
 twitter:
 joined: 2025

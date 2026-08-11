@@ -19,18 +19,28 @@ description: "Meet the members of the OptimalX research group at the University 
 <div class="pos_header">
 {% if role == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
+
  {% elsif role == 'pi' %}
 <h3>Principal Investigator</h3>
+
  {% elsif role == 'phdstudent' %}
 <h3>Ph.D. Students</h3>
+
  {% elsif role == 'gradstudent' %}
 <h3>Graduate Students</h3>
+
+ {% elsif role == 'msstudent' %}
+<h3>Master's Students</h3>
+
  {% elsif role == 'undergrad' %}
 <h3>Undergraduate Students</h3>
+
  {% elsif role == 'researchstaff' %}
 <h3>Research Staff</h3>
+
  {% elsif role == 'visiting' %}
 <h3>Visiting Scholars</h3>
+
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
 {% endif %}
