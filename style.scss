@@ -525,17 +525,47 @@ tbody tr:nth-child(odd) th {
 
 // change font for navbar
 .navbar, .navbar-nav>li>a {
-  background-color: white;
+  background-color: #7a0019;
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;
 }
 
+.navbar-default {
+  background-color: #7a0019;
+  border-color: #7a0019;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+
+  &:hover,
+  &:focus {
+    color: #ffcc33;
+    background-color: transparent;
+  }
+}
+
+// mobile menu dropdown to match the maroon navbar
+.navbar-default .navbar-collapse {
+  background-color: #7a0019;
+  border-color: #5b0013;
+}
+
 .navbar-brand {
   text-transform: none;
   font-weight: 700;
-  color: #000 !important;
+  color: #fff !important;
+
+  span {
+    color: #fff;
+  }
+
+  &:hover,
+  &:focus {
+    color: #ffcc33 !important;
+  }
 }
 
 // fix menu bar spacing for mobile
@@ -589,7 +619,11 @@ tbody tr:nth-child(odd) th {
 // fix menu button for mobile
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
-  background-color: #FFF;
+  background-color: transparent;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: #fff;
 }
 
 // jan 8, 2025 -> Aditya added this line to change font
