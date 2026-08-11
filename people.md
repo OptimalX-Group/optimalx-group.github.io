@@ -5,7 +5,7 @@ description: "Meet the members of the OptimalX research group at the University 
 ---
 <br>
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|phdstudent|gradstudent|undergrad|researchstaff|visiting|others" | split: "|" %}
+{% assign role_array = "pi|postdoc|phdstudent|gradstudent|msstudent|undergrad|researchstaff|visiting|others" | split: "|" %}
 
 {% for role in role_array %}
 
