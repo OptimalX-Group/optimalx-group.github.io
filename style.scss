@@ -1,6 +1,13 @@
 ---
 ---
 
+// lab palette (brand-neutral; not affiliated with any UMN identity)
+$brand-dark:         #14213d; // deep navy — navbar, footer
+$brand-darker:       #0d1628; // borders / dividers on dark
+$brand-accent:       #2a9d8f; // teal — hover / active accents on light
+$brand-accent-light: #5ec5b8; // teal — accents on dark backgrounds
+$brand-accent-hi:    #a8e5dd; // teal — hover state on dark backgrounds
+$footer-text:        #e5e9f0;
 
 * {
   -webkit-box-sizing: border-box;
@@ -40,18 +47,22 @@ body {
   margin-top: auto;
   padding: 2.5em 0;
   font-size: 0.85em;
-  color: #000;
-  background-color: #ffcc33;
+  color: $footer-text;
+  background-color: $brand-dark;
   text-align: left;
 
   a {
-    color: #7a0019;
+    color: $brand-accent-light;
     font-weight: 600;
 
     &:hover,
     &:focus {
-      color: #5b0013;
+      color: $brand-accent-hi;
     }
+  }
+
+  strong {
+    color: $footer-text;
   }
 
   ul {
@@ -554,7 +565,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .list-item a:hover, .list-post-title:hover .name, .list-post-title .name:hover {
-  color: #c42929;
+  color: $brand-accent;
 }
 
 .page-title {
@@ -569,7 +580,7 @@ tbody tr:nth-child(odd) th {
 
 // change font for navbar
 .navbar, .navbar-nav>li>a {
-  background-color: #7a0019;
+  background-color: $brand-dark;
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
@@ -577,8 +588,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .navbar-default {
-  background-color: #7a0019;
-  border-color: #7a0019;
+  background-color: $brand-dark;
+  border-color: $brand-dark;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -586,26 +597,26 @@ tbody tr:nth-child(odd) th {
 
   &:hover,
   &:focus {
-    color: #ffcc33;
+    color: $brand-accent-light;
     background-color: transparent;
   }
 }
 
 .navbar-default .navbar-nav>.active>a {
-  color: #ffcc33;
+  color: $brand-accent-light;
   background-color: transparent;
 
   &:hover,
   &:focus {
-    color: #ffcc33;
+    color: $brand-accent-light;
     background-color: transparent;
   }
 }
 
-// mobile menu dropdown to match the maroon navbar
+// mobile menu dropdown to match the navbar
 .navbar-default .navbar-collapse {
-  background-color: #7a0019;
-  border-color: #5b0013;
+  background-color: $brand-dark;
+  border-color: $brand-darker;
 }
 
 .navbar-brand {
@@ -619,7 +630,7 @@ tbody tr:nth-child(odd) th {
 
   &:hover,
   &:focus {
-    color: #ffcc33 !important;
+    color: $brand-accent-light !important;
   }
 }
 
