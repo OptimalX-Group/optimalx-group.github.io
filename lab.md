@@ -18,7 +18,7 @@ permalink: /lab/
 
   <figure>
     <img src="{{ '/images/robots.jpg' | relative_url }}" alt="Lab photo 3">
-    <figcaption>Our Robots!</figcaption>
+    <figcaption>Our Robots! <a href="{{ '/projects/#in-house-robot-platforms' | relative_url }}">See them in action.</a></figcaption>
   </figure>
 
   <figure>
