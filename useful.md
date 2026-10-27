@@ -14,6 +14,9 @@ permalink: /useful/
   - <span style="font-size: smaller;">[Lecture Notes](https://stanford.edu/class/ee363/)</span>
 - <span style="font-size: 1.05em;">*Convex Optimization: Algorithms and Complexity* by Sebastien Bubeck</span>
   - <span style="font-size: smaller;">[Book](https://arxiv.org/abs/1405.4980)</span>
+- <span style="font-size: 1.05em;">*Introduction to Linear Dynamical Systems* by Stephen Boyd</span>
+  - <span style="font-size: smaller;">[Lecture Notes](https://ee263.stanford.edu/archive/)</span>
+  - <span style="font-size: smaller;">[YouTube](https://www.youtube.com/playlist?list=PL65DA13A9AA894BBD)</span>
 
 #### C) Nonlinear Optimization Algorithms
 - <span style="font-size: 1.05em;">*Numerical Optimization* by Jorge Nocedal and Stephen Wright</span>
