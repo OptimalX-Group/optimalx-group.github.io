@@ -169,19 +169,9 @@ description: "Research projects from the OptimalX group at University of Minneso
   </div>
 </section>
 
-<section class="project-section" id="uav-multiple-task-positions">
-  <div class="project-head">
-    <span class="project-number">05</span>
-    <div>
-      <h2>Nonlinear Trajectory Optimization for UAVs with Multiple Task Positions</h2>
-      <p class="project-subtitle">Details coming soon.</p>
-    </div>
-  </div>
-</section>
-
 <section class="project-section" id="robot-platforms">
   <div class="project-head">
-    <span class="project-number">06</span>
+    <span class="project-number">05</span>
     <div>
       <h2>In-House Robot Platforms</h2>
       <p class="project-subtitle">Aerial and ground robots for testing our algorithms on real hardware.</p>
