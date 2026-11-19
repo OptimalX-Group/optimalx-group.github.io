@@ -747,7 +747,7 @@ $project-panel:  #f5f8fa;
 
 .project-showcase {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
   gap: 36px;
   align-items: center;
   & + .project-showcase {
@@ -756,6 +756,14 @@ $project-panel:  #f5f8fa;
     border-top: 1px solid $project-border;
   }
 }
+
+.project-block + .project-block {
+  margin-top: 28px;
+  padding-top: 28px;
+  border-top: 1px solid $project-border;
+}
+
+.project-gallery { margin: 18px 0 0; }
 
 .project-kicker {
   text-transform: uppercase;
@@ -815,19 +823,28 @@ $project-panel:  #f5f8fa;
   box-shadow: 0 8px 24px rgba(20, 33, 61, 0.08);
   text-align: center;
   img, video { display: block; width: 100%; height: auto; border-radius: 6px; }
+  img { max-width: 380px; margin: 0 auto; }   // keep animations compact
   figcaption { margin-top: 10px; font-size: 0.88em; color: $project-muted; }
 }
 
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 410px));
+  justify-content: center;
+  gap: 24px;
+}
+
+// real-world videos: one per row, full panel width
 .video-gallery {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 24px;
   margin-bottom: 28px;
   &:last-child { margin-bottom: 0; }
 }
 
 @media (max-width: 767px) {
-  .project-showcase, .video-gallery { grid-template-columns: 1fr; gap: 20px; }
+  .project-showcase, .video-gallery, .project-gallery { grid-template-columns: 1fr; gap: 20px; }
   .project-results { padding: 20px; }
   .project-facts li { grid-template-columns: 1fr; gap: 4px; }
 }
